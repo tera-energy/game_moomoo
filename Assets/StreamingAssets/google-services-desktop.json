@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "614919104208",
+    "firebase_url": "https://perplexbrainbow-default-rtdb.firebaseio.com",
+    "project_id": "perplexbrainbow",
+    "storage_bucket": "perplexbrainbow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614919104208:ios:66558017d5760cb3e560d5",
+        "android_client_info": {
+          "package_name": "com.blazar.moomoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614919104208-2p5uvk523cag968c89ruhsv91p6jbc3m.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6h-2cqRkywEvX94WyDKWFuT5MIfQcU0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

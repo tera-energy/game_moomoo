@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9dd5f08942ecaa4b8381279962d017b, type: 3}
+  m_Name: Peepee
+  m_EditorClassIdentifier: 
+  _type: 4
+  _spCharacter: {fileID: 21300000, guid: 7fa1199f93c659f44872e82d40ca92ac, type: 3}
+  _spProfile: {fileID: 21300000, guid: ecdb0f1abc1f1414bb0f1dc86e95c5ed, type: 3}
+  _spResultCharacter: {fileID: 21300000, guid: c725421d223b75a41ad89fb041728316, type: 3}
+  _name: SONSON
+  _spGoldMedal: {fileID: 21300000, guid: a6a85d3bdaec2b246a6ffb3d364196ab, type: 3}
+  _spSilverMedal: {fileID: 21300000, guid: 759ee740b0edaee4b8063e3fa082e348, type: 3}
+  _spBrownMedal: {fileID: 21300000, guid: 8f0380a5dec5c5e46b95a5fcc80a28a5, type: 3}
+  _posMedal: {x: 0, y: 1.5, z: 0}
+  _spBgActivate: {fileID: 21300000, guid: 56fe45b6445935c4baf5d565a7c76e05, type: 3}
+  _colNameActivate: {r: 0.09411765, g: 0.16078432, b: 0.26666668, a: 0}
+  _spBgDisable: {fileID: 21300000, guid: 244d54a5db7d8ab48bd6a41eedc39de1, type: 3}
+  _colNameDisable: {r: 0.96862745, g: 0.70980394, b: 0.05882353, a: 0}

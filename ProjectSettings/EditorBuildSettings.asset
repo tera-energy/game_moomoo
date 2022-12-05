@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/UIScenes/LobbyPear.unity
+    guid: 6b60d389de7ee0146994a904461500ab
+  - enabled: 1
+    path: Assets/_Scenes/Multi/MultiLobby.unity
+    guid: fde637271bd91924596f150877edb080
+  - enabled: 1
+    path: Assets/_Scenes/Puzzles/PuzzlePearAnimals.unity
+    guid: e85dc5e90d269a748b82fa9803791e71
+  - enabled: 1
+    path: Assets/_Scenes/Puzzles/PuzzleAnimals.unity
+    guid: 74819a220a2479142a580febc2907bd4
+  - enabled: 1
+    path: Assets/_Scenes/Puzzles/PuzzleTempleAnimals.unity
+    guid: 68195cb2c8559344292e50984e90dd9c
+  - enabled: 1
+    path: Assets/_Scenes/UIScenes/Result.unity
+    guid: 1453fecdfed7a4c4eab3afbbd86b4f04
+  - enabled: 1
+    path: Assets/_Scenes/Multi/MultiResult.unity
+    guid: e35193cadc5d67b4a819e605742f9b11
+  m_configObjects: {}

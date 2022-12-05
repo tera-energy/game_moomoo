@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9dd5f08942ecaa4b8381279962d017b, type: 3}
+  m_Name: Sonson
+  m_EditorClassIdentifier: 
+  _type: 3
+  _spCharacter: {fileID: 21300000, guid: cf82912b416d45a438a242b4fbbcf56e, type: 3}
+  _spProfile: {fileID: 21300000, guid: f958dd24367e1294b94d58215e73db40, type: 3}
+  _spResultCharacter: {fileID: 21300000, guid: a54dfa87bd2890d4ab983cdff14002d9, type: 3}
+  _name: SONSON
+  _spGoldMedal: {fileID: 21300000, guid: 13aa270e4a288a747bdf00bdaf635f27, type: 3}
+  _spSilverMedal: {fileID: 21300000, guid: 5fd0a1e6c23d9da448f3c64e4b1904eb, type: 3}
+  _spBrownMedal: {fileID: 21300000, guid: 67b73d355e81ae44896a4407545a2e94, type: 3}
+  _posMedal: {x: -0.03, y: 0.58, z: 0}
+  _spBgActivate: {fileID: 21300000, guid: dc1ec6876af23da4f8206768e4fbd8e2, type: 3}
+  _colNameActivate: {r: 0.64705884, g: 0.3137255, b: 0.13725491, a: 0}
+  _spBgDisable: {fileID: 21300000, guid: 244d54a5db7d8ab48bd6a41eedc39de1, type: 3}
+  _colNameDisable: {r: 0.96862745, g: 0.70980394, b: 0.05882353, a: 0}
